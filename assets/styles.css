@@ -13,5 +13,7 @@ font-style: italic;
 }
 
 @media (max-width: 768px){
+body{
 margin:10% 0%;
+}
 }
