@@ -1,0 +1,13 @@
+body{
+background-color:#FAF3F3;
+font-family: sans-serif; /*font size: 100% = 16px; 1em = 16px; em inherits parent's setting, rem doesn't*/;
+margin:10% 25%;
+}
+
+.header{
+text-align:center;
+}
+
+.footer{
+font-style: italic;
+}
