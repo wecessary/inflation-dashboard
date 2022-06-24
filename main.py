@@ -50,7 +50,7 @@ df["renamed_aggregate"] = renamed_inflation_cats
 # ------ Dash --------- #
 
 app = Dash(__name__)
-
+server = app.server
 
 
 app.layout = html.Div(children=[
